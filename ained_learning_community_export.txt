@@ -1,0 +1,497 @@
+
+# AiNed Learning Community 2026 – Human-Centered Physical AI
+
+## Context
+We zijn bezig met een call for proposals rond AINed learning communities. Dit is gericht op leren, talent ontwikkeling, innovatie op het gebied van AI. We kiezen voor het toepassingsgebied gezondheid en zorg.
+
+---
+
+# Drie next-generation AI thema’s voor gezondheid en zorg
+
+## 1. Human-Centered Autonomous Care Systems
+### Van AI-assistenten naar samenwerkende zorg-ecosystemen
+
+Kernidee:
+Ontwikkeling van AI-systemen die zelfstandig kunnen samenwerken met zorgprofessionals, patiënten en digitale infrastructuren — niet alleen adviserend, maar ook coördinerend en adaptief handelend binnen veilige grenzen.
+
+Waarom next-generation?
+De huidige AI in zorg is vaak beperkt tot beslissingsondersteuning of administratieve automatisering. De volgende generatie verschuift naar:
+- multi-agent AI;
+- contextbewuste AI;
+- realtime besluitvorming;
+- continue afstemming tussen mens, sensoriek en zorgprocessen.
+
+Denk aan:
+- AI die thuiszorg, huisarts en mantelzorger dynamisch coördineert;
+- zelflerende zorgpaden;
+- AI die escalaties voorspelt én interventies organiseert.
+
+Waarom interessant voor onderwijs, mkb en zorg?
+- Onderwijs: nieuwe competenties rond human-AI teaming, AI governance, klinische interactie en systeemdenken.
+- Mkb: kansen voor interoperabiliteit, slimme sensoren, workflow-AI en zorgplatformen.
+- Zorgorganisaties: oplossing voor personeelstekorten, toenemende zorgvraag en thuiszorgtransitie.
+
+Sterke Learning Community-cases:
+- AI-gestuurde wijkzorgcoördinatie.
+- Multi-agent triage in ouderenzorg.
+- Zelforganiserende monitoring voor chronische patiënten.
+
+---
+
+## 2. Personal Digital Twins for Preventive & Adaptive Healthcare
+### Van standaardzorg naar voorspellende, gepersonaliseerde simulatie
+
+Kernidee:
+Ontwikkeling van “digital twins” van patiënten, zorgprocessen of populaties waarmee toekomstige gezondheidsuitkomsten kunnen worden gesimuleerd.
+
+Waarom next-generation?
+In plaats van reageren op ziekte, verschuift AI naar:
+- simuleren;
+- voorspellen;
+- personaliseren;
+- preventief interveniëren.
+
+Digital twins combineren:
+- medische data;
+- leefstijl;
+- sensordata;
+- gedragsdata;
+- omgevingsfactoren;
+- AI-modellen.
+
+Hiermee kunnen zorgprofessionals scenario’s testen vóór interventies plaatsvinden.
+
+Waarom interessant?
+- Onderwijs: combineert AI, data science, zorgethiek, simulatie en klinisch redeneren.
+- Mkb: enorme innovatiekansen voor wearables, monitoring, simulatiesoftware en preventiediensten.
+- Zorgorganisaties: verschuiving van reactieve zorg naar preventie en capaciteitsoptimalisatie.
+
+Sterke Learning Community-cases:
+- Digital twin voor valpreventie bij ouderen.
+- Simulatie van hersteltrajecten na operaties.
+- AI-gestuurde preventie bij diabetes/COPD.
+
+---
+
+## 3. Neuroadaptive & Emotion-Aware AI for Care and Learning
+### AI die menselijke cognitieve en emotionele toestand begrijpt en ondersteunt
+
+Kernidee:
+AI-systemen die realtime cognitieve belasting, stress, vermoeidheid, motivatie of emotionele toestand herkennen en daarop adaptief reageren.
+
+Waarom next-generation?
+Dit gaat veel verder dan generatieve AI. Het raakt:
+- affective computing;
+- neuro-symbolische AI;
+- multimodale AI;
+- adaptive interaction;
+- embodied AI.
+
+AI wordt hiermee niet alleen “slim”, maar ook situationeel sensitief.
+
+Toepassingen in zorg:
+- ondersteuning van zorgprofessionals bij hoge werkdruk;
+- cognitieve ondersteuning in OK’s of spoedzorg;
+- AI-coaches voor mentale gezondheid;
+- adaptieve revalidatie.
+
+Waarom interessant?
+- Onderwijs: nieuwe curricula rond mensgerichte AI, ethiek, UX, gedragspsychologie en multimodale AI.
+- Mkb: innovatiekansen voor sensortechnologie, serious gaming, AR/VR en mentale gezondheidsplatformen.
+- Zorgorganisaties: directe relevantie voor personeelstekorten, werkdruk en mentale belasting.
+
+Sterke Learning Community-cases:
+- AI die burn-outsignalen bij zorgmedewerkers detecteert.
+- Adaptieve leeromgevingen voor verpleegkundigen.
+- Revalidatie-AI die therapie aanpast op motivatie en vermoeidheid.
+
+---
+
+# AI + Robotica / AI + Virtual Reality
+
+## 1. Cognitive Care Robotics
+### Van taakrobots naar collaboratieve zorgrobots
+
+Kernidee:
+Ontwikkeling van AI-gedreven robots die situationeel begrijpen wat er gebeurt in een zorgcontext en actief samenwerken met zorgprofessionals, patiënten en cliënten.
+
+Next-generation kenmerken:
+- multimodale AI;
+- embodied AI;
+- computer vision;
+- spraakinteractie;
+- reinforcement learning;
+- context awareness.
+
+Voorbeelden:
+- robot die onrust bij dementie herkent;
+- revalidatierobot die therapie dynamisch aanpast;
+- AI-robot die verpleegkundigen ondersteunt bij fysieke handelingen.
+
+---
+
+## 2. Immersive AI for Adaptive Healthcare Training & Therapy
+### AI-gestuurde XR-omgevingen voor leren, simulatie en behandeling
+
+Kernidee:
+Combinatie van AI met virtual reality (VR), augmented reality (AR) en mixed reality (MR) om dynamische leer- en zorgomgevingen te creëren die zich realtime aanpassen aan gebruiker, context en prestaties.
+
+Mogelijkheden:
+- adaptieve simulaties;
+- AI-gegenereerde scenario’s;
+- realtime coaching;
+- emotie- en stressdetectie;
+- gepersonaliseerde training.
+
+Sterke cases:
+- AI-gestuurde VR-training voor acute zorg.
+- XR-simulaties voor operatiekamers.
+- Virtuele AI-patiënten voor verpleegkunde.
+- AI-coaching voor omgaan met agressie of stress.
+
+---
+
+## 3. Hybrid Human-AI Environments
+### Slimme fysieke én virtuele zorgomgevingen
+
+Kernidee:
+Integratie van AI, robotica, sensortechnologie en XR in één adaptieve omgeving waarin fysieke en digitale intelligentie samenkomen.
+
+Voorbeelden:
+- operatiekamer met AI-assistentie via AR;
+- slimme revalidatiekamers;
+- AI-ondersteunde thuiszorgomgevingen;
+- sensorgestuurde ouderenzorg.
+
+---
+
+# Vier Cases – Cognitive Care Robotics
+
+## CASE 1 — Ziekenhuis
+### “Context-Aware Ward Assistant”
+
+Context:
+Een ziekenhuis gebruikt mobiele servicrobots voor logistieke ondersteuning op verpleegafdelingen. De robot kan navigeren en taken uitvoeren, maar begrijpt sociale context niet.
+
+Praktijkvraag:
+Hoe kan een zorgrobot sociale en klinische context herkennen en zijn gedrag daarop aanpassen?
+
+AI-componenten:
+- multimodale AI;
+- computer vision;
+- activity recognition;
+- speech interaction;
+- context-aware decision making;
+- human intent recognition.
+
+Leermodule:
+“Socially Aware Robotics in Clinical Environments”
+
+---
+
+## CASE 2 — Verpleeghuis
+### “Emotionally Adaptive Dementia Support Robot”
+
+Context:
+Een verpleeghuis gebruikt sociale robots voor bewoners met dementie. De robot begrijpt emoties niet en reageert niet adaptief.
+
+Praktijkvraag:
+Hoe kan een robot emotionele en gedragsmatige signalen herkennen en sociaal passend reageren?
+
+AI-componenten:
+- affective AI;
+- emotion recognition;
+- conversational AI;
+- reinforcement learning;
+- behavior adaptation;
+- multimodal interaction.
+
+Leermodule:
+“Empathic AI and Dementia Care Robotics”
+
+---
+
+## CASE 3 — Thuiszorg
+### “Adaptive Home Care Companion”
+
+Context:
+Een thuiszorgorganisatie experimenteert met een mobiele assistentrobot voor zelfstandig wonende ouderen.
+
+Praktijkvraag:
+Hoe kan een thuiszorgrobot persoonlijke routines, voorkeuren en sociale interactiepatronen leren herkennen en ondersteunen?
+
+AI-componenten:
+- continual learning;
+- personalized AI;
+- activity prediction;
+- ambient intelligence;
+- speech/dialog systems;
+- anomaly detection.
+
+Leermodule:
+“Personalized Physical AI in Home Care”
+
+---
+
+## CASE 4 — Therapie & Revalidatie
+### “AI-Augmented Rehabilitation Robot”
+
+Context:
+Een revalidatiecentrum gebruikt robotondersteunde therapie.
+
+Praktijkvraag:
+Hoe kan een therapierobot realtime fysieke én cognitieve toestand herkennen en therapie adaptief ondersteunen?
+
+AI-componenten:
+- multimodal sensing;
+- pose estimation;
+- neuroadaptive AI;
+- motivational AI;
+- reinforcement learning;
+- embodied feedback systems.
+
+Leermodule:
+“Adaptive AI for Rehabilitation Robotics”
+
+---
+
+# Leerbehoeften en Competentiegaps
+
+## Zorgprofessionals
+Missen:
+- begrip van AI-gedrag;
+- vaardigheden in human-AI samenwerking;
+- inzicht in sociale interactie met robots.
+
+Nodig:
+- AI literacy;
+- human-AI teaming;
+- robot supervision;
+- ethical judgment.
+
+Leren via:
+- praktijkcases;
+- simulaties;
+- reflectiesessies;
+- co-design workshops.
+
+---
+
+## Mkb-bedrijven / Robotleveranciers
+Missen:
+- begrip van zorgcontext;
+- ervaring met kwetsbare gebruikers;
+- participatief ontwerpen.
+
+Nodig:
+- clinical workflow understanding;
+- human-centered AI;
+- responsible robotics;
+- embodied interaction design.
+
+Leren via:
+- embedded learning;
+- werkvloerparticipatie;
+- iteratieve experimenten.
+
+---
+
+## Managers en Innovatieleads
+Missen:
+- strategisch begrip van physical AI;
+- implementatiekennis;
+- inzicht in risico’s.
+
+Nodig:
+- AI transformation strategy;
+- AI governance;
+- organizational redesign.
+
+Leren via:
+- governance-sessies;
+- pilot-evaluaties;
+- implementatiereflectie.
+
+---
+
+## Docenten
+Missen:
+- actuele kennis van physical AI;
+- interdisciplinair AI-onderwijs;
+- verbinding met werkveld.
+
+Nodig:
+- physical AI literacy;
+- case-based AI education;
+- AI ethics in context.
+
+Leren via:
+- co-teaching;
+- praktijkparticipatie;
+- curriculumontwikkeling.
+
+---
+
+## Studenten
+Missen:
+- ervaring met socio-technische AI-systemen;
+- interdisciplinair samenwerken;
+- realistische AI-validatie.
+
+Nodig:
+- applied AI;
+- responsible innovation;
+- AI evaluation.
+
+Leren via:
+- praktijkparticipatie;
+- experimenten;
+- multidisciplinaire teams.
+
+---
+
+# Structuur van de Learning Community
+
+## Concept
+De Learning Community functioneert als een permanent praktijkgericht leer-ecosysteem waarin:
+- zorgorganisaties;
+- mkb-bedrijven;
+- kennisinstellingen;
+- studenten;
+- docenten;
+- AI-specialisten
+
+gezamenlijk werken aan kort-cyclische praktijkcases rond cognitive care robotics.
+
+---
+
+## Didactische Visie
+Case-based learning staat centraal:
+- gezamenlijk ontwerpen;
+- testen;
+- evalueren;
+- verbeteren van AI-toepassingen in echte zorgsituaties.
+
+---
+
+# Organisatiestructuur
+
+## Strategische Kernpartners
+- ziekenhuizen;
+- verpleeghuizen;
+- thuiszorgorganisaties;
+- revalidatiecentra;
+- robotica-bedrijven;
+- AI softwarebedrijven;
+- kennisinstellingen (mbo/hbo/wo).
+
+---
+
+## Managementrollen
+
+### Penvoerder
+- governance;
+- financiën;
+- rapportage.
+
+### Learning Community Lead
+- strategie;
+- ecosysteem;
+- caseontwikkeling.
+
+### Learning Lead
+- didactiek;
+- leerdoelen;
+- leermodules.
+
+---
+
+# Vier Operationele Lagen
+
+## 1. Practice Labs
+Living labs binnen echte zorgomgevingen.
+
+## 2. Multidisciplinaire Caseteams
+Teams van:
+- zorgprofessionals;
+- studenten;
+- docenten;
+- AI engineers;
+- ontwerpers.
+
+## 3. Reflection & Learning Layer
+Reflectiesessies, AI-evaluaties, ethische analyses.
+
+## 4. Knowledge Transfer Layer
+Ontwikkeling van:
+- leermodules;
+- toolkits;
+- richtlijnen;
+- casemateriaal.
+
+---
+
+# Structuur van een Case-Cyclus
+
+## Fase 1 — Probleemverkenning
+- werkvloerobservaties;
+- interviews;
+- analyse van zorgprocessen.
+
+## Fase 2 — Co-Design & Conceptontwikkeling
+- workshops;
+- interaction mapping;
+- AI behavior design.
+
+## Fase 3 — Experimenteren & Implementeren
+- testen van robotgedrag;
+- trainen van AI-modellen;
+- praktijkvalidatie.
+
+## Fase 4 — Reflectie & Evaluatie
+- impactanalyse;
+- gebruikersfeedback;
+- ethische evaluatie.
+
+## Fase 5 — Borging in Leermodules
+Iedere case resulteert in:
+- leermodule;
+- toolkit;
+- praktijkhandleiding;
+- onderwijscomponenten.
+
+---
+
+# Typische Activiteiten van de Learning Community
+
+## Case-activiteiten
+- Living Lab Sessies
+- Human-AI Interaction Evaluations
+- AI Failure Analysis
+- Co-Design Workshops
+
+## Leeractiviteiten
+- AI Skill Labs
+- Reflective Practice Sessions
+- Interdisciplinary Studios
+- Ethical Deliberation Workshops
+
+## Ecosysteemactiviteiten
+- Regional AI Meetups
+- Open Demonstration Days
+- Cross-Case Learning Sessions
+- National Knowledge Exchange
+
+---
+
+# Mogelijke Positionering
+
+## Titel
+Human-Centered Physical AI Learning Community
+
+## Ondertitel
+Learning to design, deploy and evaluate socially adaptive healthcare robotics
+
+Alternatief:
+Cognitive Care Robotics Living Labs
+Case-based learning for trustworthy physical AI in healthcare
