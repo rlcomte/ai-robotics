@@ -12,7 +12,8 @@ export default defineConfig({
         thuiszorg: resolve(__dirname, "thema-thuiszorg.html"),
         therapie: resolve(__dirname, "thema-therapie.html"),
         learningCommunity: resolve(__dirname, "learning-community.html"),
-        deelnemers: resolve(__dirname, "deelnemers.html")
+        deelnemers: resolve(__dirname, "deelnemers.html"),
+        verbinding: resolve(__dirname, "verbinding.html")
       }
     }
   }
