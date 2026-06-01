@@ -5,15 +5,16 @@ export const pages = [
   { title: "Thuiszorg", url: "thema-thuiszorg.html" },
   { title: "Therapie", url: "thema-therapie.html" },
   { title: "Learning Community", url: "learning-community.html" },
-  { title: "Deelnemers", url: "deelnemers.html" }
+  { title: "Deelnemers", url: "deelnemers.html" },
+  { title: "Verbinding", url: "verbinding.html" }
 ];
 
 export const searchIndex = [
   {
     title: "Human-Centered Physical AI Learning Community",
     url: "index.html",
-    snippet: "Learning to design, deploy and evaluate socially adaptive healthcare robotics in zorg, onderwijs en mkb.",
-    keywords: "homepage cognitive care robotics zorgdruk personeelstekorten vergrijzing case-based learning mkb onderwijs zorgorganisaties praktijkcases leermodules"
+    snippet: "Learning to design, deploy and evaluate socially adaptive healthcare robotics in zorg, onderwijs en mkb, met focus op sociale AI, multi-modale interactie en hybride intelligentie.",
+    keywords: "homepage cognitive care robotics zorgdruk personeelstekorten vergrijzing case-based learning mkb onderwijs zorgorganisaties praktijkcases leermodules focus sociale ai nieuwe ai interactie modellen sociaal intelligent gedrag robots sociale vaardigheden communicatie gespreksvaardigheden personalisatie sociale cognitie groepsdynamiek multi-modale interactie hybride collaboratieve intelligentie hbo mbo ziekenhuizen zorgorganisaties"
   },
   {
     title: "Context-Aware Ward Assistant",
@@ -50,6 +51,12 @@ export const searchIndex = [
     url: "deelnemers.html",
     snippet: "Leerbehoeften van zorgprofessionals, mkb, managers, docenten en studenten.",
     keywords: "deelnemers leerbehoeften competentiegaps zorgprofessionals mkb robotleveranciers managers innovatieleads docenten studenten leren via"
+  },
+  {
+    title: "Verbinding met bestaande initiatieven",
+    url: "verbinding.html",
+    snippet: "Aansluiting bij ValleiLab en Smart Care Assist als bestaande initiatieven voor zorginnovatie, technologie, onderwijs en uitlegbare beslisondersteuning.",
+    keywords: "verbinding bestaande initiatieven valleilab christelijke hogeschool ede che food valley zorginnovatie regionale proeftuin interdisciplinair leren veilig experimenteren mensgerichte oplossingen technologie onderwijs onderzoek werkveld smart care assist smartcareassist digitale zorgmiddelen clientinformatie zorgdoelen rapportages e-healthcatalogusdata uitlegbare beslisondersteuning score-breakdown onzekerheid contra-indicaties professionele verantwoordelijkheid"
   },
   {
     title: "Call for proposals kernvoorwaarden",
